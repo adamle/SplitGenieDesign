@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DB8ACEF5-3D56-4355-AF7A-E7700DC6F1BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 375,
+    "x": 0,
+    "y": 196
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "eventCell",
+  "nameIsFixed": false,
+  "overrides": {
+    "230CCC40-B90E-4DB7-A966-D2E6CF60978D": "You paid 0",
+    "29624DE9-E265-4DD5-A92B-7F9DB8ED7A10": "Event Code: 12387",
+    "63578498-BC7D-492C-B4EF-BCB68C732668": "16,04",
+    "6B84FDD7-91AB-47D3-A785-93F1886AB403": "You spent 16,04",
+    "78ED5D64-2B51-4CBB-BDC8-DA41C79BB3E0": "Party @ TA House"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D21DF17-C52B-4B99-8E78-A0514B219784",
+  "verticalSpacing": 0
+}

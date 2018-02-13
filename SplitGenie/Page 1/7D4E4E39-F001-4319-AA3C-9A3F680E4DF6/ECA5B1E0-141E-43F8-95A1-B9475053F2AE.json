@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ECA5B1E0-141E-43F8-95A1-B9475053F2AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 255
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "itemCell",
+  "nameIsFixed": false,
+  "overrides": {
+    "0032F66B-D3F4-4659-9990-3DC6335B2549": "Trang",
+    "1D888DC0-4282-4FEA-BE6C-9FF275623531": "You paid for",
+    "41D25CD8-B5DB-4989-AAF5-68C498D84EE4": "Tokmanni KeittoLevy",
+    "9B749730-3000-4A12-AB64-535E29F25B25": "15,95"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF00C7E2-0A3E-4D0B-8440-FABB73619EFF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "D9E0A59C-75FC-447A-8344-D4D0B9B91A27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 369,
+    "y": 846
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2997A36-2287-456C-A9FF-54F9E3BFD46D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02316850-1C7F-484B-804D-C66BEDBC63FF"
+    },
+    {
+      "class": "group",
+      "id": "F69B213E-5F20-45B4-8E08-DC4DA8AE6A2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96A776D2-59D3-4E58-ACDB-1CFC0D257D13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31D61B38-E6A7-4360-A8C4-B8A50B1F16A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D59D803-60AA-44C8-BF04-803F70AD0F7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25E6C654-7A53-48F4-B1BF-1EC8F3D5D9AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB09B7B1-24E1-47DD-AA58-58C4AF7BDA4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CAEDA72-AD5C-49CA-9B0E-88C28E80EAF1"
+    },
+    {
+      "class": "group",
+      "id": "2E69C0EF-0F27-4C48-AA61-336EA795A301"
+    }
+  ],
+  "name": "AI01 addItemMain",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
